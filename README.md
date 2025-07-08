@@ -1,2 +1,2 @@
 # AgroMind-Crop-Recommendation-Syste-m
-Built a machine learning-based web app that suggests optimal crops based on soil and environmental parameters with over 90% accuracy. 
+Built a machine learning-based web app that suggests optimal crops based on soil and environmental parameters with over 90% accuracy. Engineered the pipeline using Python, pandas, and NumPy for data processing and trained models using Scikit-learn with Random Forest Classifier. Designed a responsive frontend with HTML/CSS and JavaScript, and served predictions through a Flask backend.
